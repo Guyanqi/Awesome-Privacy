@@ -10,8 +10,8 @@ Privacy in practice(Since we already have these privacy algorithms, it's importa
 Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems),
 Policy(This part is for politics, and topics are more dynamic).  
 
-##Framework  
-###DP theory  
+## Framework  
+### DP theory  
 * [Individual Fairness Under Composition](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
 * [Differentially Private Fair Learning](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
 * [Differentially Private False Discovery Rate Control](https://arxiv.org/abs/1807.04209) by Cynthia Dwork, Weijie J. Su, Li Zhang. 2018  
@@ -21,38 +21,38 @@ Policy(This part is for politics, and topics are more dynamic).
 * [Concentrated Differential Privacy](https://arxiv.org/abs/1603.01887) by Cynthia Dwork, Guy N. Rothblum. 2016  
 * [Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
 
-###Local Differential Privacy  
+### Local Differential Privacy  
 * [Local Differential Privacy for Evolving Data](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Aaron Roth, Jonathan Ullman, Bo Waggoner. 2018  
 * [Privacy at Scale: Local Differential Privacy in Practice](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
 * [Locally Private Gaussian Estimation](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
 
-###Privacy in ML  
+### Privacy in ML  
 * [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953) by Edward Chou, Josh Beal, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei. 2018  
 * [Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
 * [Differential Privacy and Machine Learning: a Survey and Review](https://arxiv.org/abs/1412.7584) by Zhanglong Ji, Zachary C. Lipton, Charles Elkan. 2014  
 
-###Privacy in GAN  
+### Privacy in GAN  
 * [Differentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data
 ](https://arxiv.org/abs/1901.02477) by Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger. 2019   
 * [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
 
-###Privacy in RL  
+### Privacy in RL  
 * [Achieving Privacy in the Adversarial Multi-Armed Bandit](https://arxiv.org/abs/1701.04222) by Aristide C. Y. Tossou, Christos Dimitrakakis. 2017  
 * [Differentially Private Policy Evaluation](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
 * [Algorithms for Differentially Private Multi-Armed Bandits](https://arxiv.org/abs/1511.08681) by Aristide Tossou, Christos Dimitrakakis. 2015  
 
-##Application  
-###Privacy in CPS  
+## Application   
+### Privacy in CPS  
 * [Differential Privacy Techniques for Cyber Physical Systems: A Survey](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
-###Privacy in Distributed Systems  
+### Privacy in Distributed Systems  
 
-###Privacy in IoT  
+### Privacy in IoT  
 
-###Privacy in Network  
+### Privacy in Network  
 * [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) by Steven Englehardt and Arvind Narayanan. 2016  
 * [Third-Party Web Tracking: Policy and Technology](https://jonathanmayer.org/publications/trackingsurvey12.pdf) by Jonathan Mayer and John Mitchell. 2012  
 
-##Politics  
+## Politics  
 
 
