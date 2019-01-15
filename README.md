@@ -8,7 +8,7 @@ In my opinion, there're currently several things that researchers in this area n
 Mathematical Frameworks(Theoretical research in differential privacy is getting hotter, including private learning algorithms and fair learning),
 Privacy in practice(Since we already have these privacy algorithms, it's important to think about how to implement them efficiently),
 Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems),
-Policy(This part is for politics, and topics are more dynamic).  
+Policy(This part is for politics).  
 
 ## Framework  
 ### DP theory  
