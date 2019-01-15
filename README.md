@@ -41,11 +41,15 @@ Policy(This part is for politics).
 * [Differentially Private Policy Evaluation](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
 * [Algorithms for Differentially Private Multi-Armed Bandits](https://arxiv.org/abs/1511.08681) by Aristide Tossou, Christos Dimitrakakis. 2015  
 
+## Efficient Deployment  
+### Parallel Computing  
+* [GENERATIVE ADVERSARIAL PARALLELIZATION](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
+
 ## Application   
 ### Privacy in CPS  
 * [Differential Privacy Techniques for Cyber Physical Systems: A Survey](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
-### Privacy in Distributed Systems  
+
 
 ### Privacy in IoT  
 
