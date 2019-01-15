@@ -26,6 +26,9 @@ Policy(This part is for politics).
 * [Privacy at Scale: Local Differential Privacy in Practice](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
 * [Locally Private Gaussian Estimation](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
 
+### Privacy in Collaborative Learning  
+* [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
+
 ### Privacy in ML  
 * [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953) by Edward Chou, Josh Beal, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei. 2018  
 * [Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
@@ -49,11 +52,10 @@ Policy(This part is for politics).
 ### Privacy in CPS  
 * [Differential Privacy Techniques for Cyber Physical Systems: A Survey](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
-
-
 ### Privacy in IoT  
 
 ### Privacy in Network  
+* [NoMoAds: Effective and Efficient Cross-App Mobile Ad-Blocking](https://www.petsymposium.org/2018/files/papers/issue4/popets-2018-0035.pdf) by Anastaisa Shuba, A.Markopoulou and Zubair Shafiq. 2018  
 * [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) by Steven Englehardt and Arvind Narayanan. 2016  
 * [Third-Party Web Tracking: Policy and Technology](https://jonathanmayer.org/publications/trackingsurvey12.pdf) by Jonathan Mayer and John Mitchell. 2012  
 
