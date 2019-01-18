@@ -40,10 +40,12 @@ Policy(This part is for politics).
 ](https://arxiv.org/abs/1901.02477) by Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger. 2019   
 * [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
 
-### Privacy in RL  
+### Privacy in MAB  
+* [Differentially Private Contextual Linear Bandits](https://arxiv.org/pdf/1810.00068.pdf) by Roshan Shariff and Or Sheffet. 2018  
 * [Achieving Privacy in the Adversarial Multi-Armed Bandit](https://arxiv.org/abs/1701.04222) by Aristide C. Y. Tossou, Christos Dimitrakakis. 2017  
 * [Differentially Private Policy Evaluation](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
 * [Algorithms for Differentially Private Multi-Armed Bandits](https://arxiv.org/abs/1511.08681) by Aristide Tossou, Christos Dimitrakakis. 2015  
+* [MAB problems](http://web.eecs.umich.edu/faculty/teneketzis/papers/MAB-Survey.pdf) by Aditya Mahajan and D.teneketzis  
 
 ## Efficient Deployment  
 ### Parallel Computing  
