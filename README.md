@@ -46,6 +46,8 @@ Policy(This part is for politics).
 * [Differentially Private Policy Evaluation](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
 * [Algorithms for Differentially Private Multi-Armed Bandits](https://arxiv.org/abs/1511.08681) by Aristide Tossou, Christos Dimitrakakis. 2015  
 * [MAB problems](http://web.eecs.umich.edu/faculty/teneketzis/papers/MAB-Survey.pdf) by Aditya Mahajan and D.teneketzis  
+* [(Nearly) Optimal Differentially Private Stochastic Multi-Arm Bandits](http://auai.org/uai2015/proceedings/papers/58.pdf) by Nikita Mishra and Abhradeep Thakurta  
+* [Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
 
 ## Efficient Deployment  
 ### Parallel Computing  
