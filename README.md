@@ -10,6 +10,11 @@ Privacy in practice(Since we already have these privacy algorithms, it's importa
 Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems),
 Policy(This part is for politics).  
 
+## Privacy Mechanism Design  
+### GAN based  
+* [Context-Aware Generative Adversarial Privacy](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
+
+
 ## Framework  
 ### DP theory  
 * [Individual Fairness Under Composition](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
@@ -30,6 +35,7 @@ Policy(This part is for politics).
 * [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
 
 ### Privacy in ML  
+* [DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation](https://arxiv.org/pdf/1806.10313.pdf) by Hui Xu, etc. 2018
 * [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953) by Edward Chou, Josh Beal, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei. 2018  
 * [Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
 * [Privacy-Preserving Deep Learning](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf) by Reza Shokri and Vitaly Shmatikov.2015  
@@ -49,6 +55,8 @@ Policy(This part is for politics).
 * [(Nearly) Optimal Differentially Private Stochastic Multi-Arm Bandits](http://auai.org/uai2015/proceedings/papers/58.pdf) by Nikita Mishra and Abhradeep Thakurta  
 * [Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
 
+### Privacy based on Cryptography
+
 ## Efficient Deployment  
 ### Parallel Computing  
 * [GENERATIVE ADVERSARIAL PARALLELIZATION](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
@@ -64,6 +72,5 @@ Policy(This part is for politics).
 * [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) by Steven Englehardt and Arvind Narayanan. 2016  
 * [Third-Party Web Tracking: Policy and Technology](https://jonathanmayer.org/publications/trackingsurvey12.pdf) by Jonathan Mayer and John Mitchell. 2012  
 
-## Politics  
 
 
