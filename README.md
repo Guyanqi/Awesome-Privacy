@@ -57,6 +57,8 @@ Policy(This part is for politics).
 
 ### Privacy based on Cryptography
 
+### Interaction
+
 ## Efficient Deployment  
 ### Parallel Computing  
 * [GENERATIVE ADVERSARIAL PARALLELIZATION](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
@@ -72,5 +74,8 @@ Policy(This part is for politics).
 * [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) by Steven Englehardt and Arvind Narayanan. 2016  
 * [Third-Party Web Tracking: Policy and Technology](https://jonathanmayer.org/publications/trackingsurvey12.pdf) by Jonathan Mayer and John Mitchell. 2012  
 
-
+## Differential Privacy Tutorial
+* [For dummies](https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/)
+* [Emory University CS 573 Data Privacy and Security, Fall 2018](http://www.cs.emory.edu/~lxiong/cs573/)
+* [KDD 2018 Privacy tutorial](https://sites.google.com/view/kdd2018privacytutorial)
 
