@@ -17,6 +17,7 @@ Policy(This part is for politics).
 
 ## Framework  
 ### DP theory  
+* [Differentially Private Continual Learning](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018 This is a workshop 3 page paper. Continual DP GAN.
 * [Individual Fairness Under Composition](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
 * [Differentially Private Fair Learning](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
 * [Differentially Private False Discovery Rate Control](https://arxiv.org/abs/1807.04209) by Cynthia Dwork, Weijie J. Su, Li Zhang. 2018  
@@ -78,4 +79,5 @@ Policy(This part is for politics).
 * [For dummies](https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/)
 * [Emory University CS 573 Data Privacy and Security, Fall 2018](http://www.cs.emory.edu/~lxiong/cs573/)
 * [KDD 2018 Privacy tutorial](https://sites.google.com/view/kdd2018privacytutorial)
+* [KDD 2018 PRIVACY AT SCALE: LOCAL DIFFERENTIAL PRIVACY IN PRACTICE](https://sites.google.com/view/kdd2018-tutorial/home)
 
