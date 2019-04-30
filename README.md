@@ -17,6 +17,7 @@ Policy(This part is for politics).
 
 ## Framework  
 ### DP theory  
+* [pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovi´c. 2018
 * [Differentially Private Continual Learning](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018 This is a workshop 3 page paper. Continual DP GAN.
 * [Individual Fairness Under Composition](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
 * [Differentially Private Fair Learning](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
