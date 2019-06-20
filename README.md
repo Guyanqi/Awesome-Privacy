@@ -83,5 +83,5 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * For dummies [[link]](https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/)
 * Emory University CS 573 Data Privacy and Security, Fall 2018 [[course website]](http://www.cs.emory.edu/~lxiong/cs573/)
 * KDD 2018 Privacy tutorial [[link]](https://sites.google.com/view/kdd2018privacytutorial)
-* KDD 2018 PRIVACY AT SCALE: LOCAL DIFFERENTIAL PRIVACY IN PRACTICE [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
+* KDD 2018 Privacy at scale: Local Differential Privacy in Practice [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
 
