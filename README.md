@@ -62,7 +62,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * (Nearly) Optimal Differentially Private Stochastic Multi-Arm Bandits [[paper]](http://auai.org/uai2015/proceedings/papers/58.pdf) by Nikita Mishra and Abhradeep Thakurta  
 * Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits [[paper]](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
 
-### Privacy-preserving Cryptography method
+### Privacy-preserving Encrypted Neural Network
 * SHE: A Fast and Accurate Deep Neural Network for Encrypted Data [[paper]](https://arxiv.org/abs/1906.00148) [[code]](https://github.com/safednn/SHE) by Qian Lou, Lei Jiang. 2019
 * 2P-DNN : Privacy-Preserving Deep Neural Networks Based on Homomorphic Cryptosystem [[paper]](https://arxiv.org/abs/1807.08459) [[code]](https://github.com/zhustrong/pigstrong/tree/master/pigstrong) by Qiang Zhu, Xixiang Lv. 2018
 
