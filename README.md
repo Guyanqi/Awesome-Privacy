@@ -10,8 +10,8 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 
 ## Framework  
 ### General DP theory  
-* pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity [[paper]](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovi´c. 2018
-* Differentially Private Continual Learning [[paper]](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018 This is a workshop 3 page paper. Continual DP GAN.
+* pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity [[paper]](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovic. 2018
+* Differentially Private Continual Learning [[paper]](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018
 * Individual Fairness Under Composition [[paper]](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
 * Differentially Private Fair Learning [[paper]](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
 * Differentially Private False Discovery Rate Control [[paper]](https://arxiv.org/abs/1807.04209) by Cynthia Dwork, Weijie J. Su, Li Zhang. 2018  
@@ -40,6 +40,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 
 ### Privacy in Collaborative Learning  
 * Exploiting Unintended Feature Leakage in Collaborative Learning [[paper]](https://arxiv.org/pdf/1805.04049.pdf) [[code]](https://github.com/csong27/property-inference-collaborative-ml) by Vitaly's group. 2019
+* How To Backdoor Federated Learning [[paper]](https://arxiv.org/abs/1807.00459) [[code]](https://github.com/ebagdasa/backdoor_federated_learning) by Vitaly's group. 2018
 * Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning [[paper]](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
 
 ### Private ML  
