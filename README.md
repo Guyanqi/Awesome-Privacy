@@ -51,13 +51,13 @@ Policy(This part is for politics).
 * Generative Adversarial Nets [[paper]](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
 
 ### Privacy in MAB  
-* [Differentially Private Contextual Linear Bandits](https://arxiv.org/pdf/1810.00068.pdf) by Roshan Shariff and Or Sheffet. 2018  
-* [Achieving Privacy in the Adversarial Multi-Armed Bandit](https://arxiv.org/abs/1701.04222) by Aristide C. Y. Tossou, Christos Dimitrakakis. 2017  
-* [Differentially Private Policy Evaluation](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
-* [Algorithms for Differentially Private Multi-Armed Bandits](https://arxiv.org/abs/1511.08681) by Aristide Tossou, Christos Dimitrakakis. 2015  
-* [MAB problems](http://web.eecs.umich.edu/faculty/teneketzis/papers/MAB-Survey.pdf) by Aditya Mahajan and D.teneketzis  
-* [(Nearly) Optimal Differentially Private Stochastic Multi-Arm Bandits](http://auai.org/uai2015/proceedings/papers/58.pdf) by Nikita Mishra and Abhradeep Thakurta  
-* [Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
+* Differentially Private Contextual Linear Bandits [[paper]](https://arxiv.org/pdf/1810.00068.pdf) by Roshan Shariff and Or Sheffet. 2018  
+* Achieving Privacy in the Adversarial Multi-Armed Bandit [[paper]](https://arxiv.org/abs/1701.04222) by Aristide C. Y. Tossou, Christos Dimitrakakis. 2017  
+* Differentially Private Policy Evaluation [[paper]](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
+* Algorithms for Differentially Private Multi-Armed Bandits [[paper]](https://arxiv.org/abs/1511.08681) by Aristide Tossou, Christos Dimitrakakis. 2015  
+* MAB problems [[paper]](http://web.eecs.umich.edu/faculty/teneketzis/papers/MAB-Survey.pdf) by Aditya Mahajan and D.teneketzis  
+* (Nearly) Optimal Differentially Private Stochastic Multi-Arm Bandits [[paper]](http://auai.org/uai2015/proceedings/papers/58.pdf) by Nikita Mishra and Abhradeep Thakurta  
+* Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits [[paper]](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
 
 ### Privacy-preserving Cryptography method
 
@@ -65,22 +65,22 @@ Policy(This part is for politics).
 
 ## Efficient Deployment  
 ### Parallel Computing  
-* [GENERATIVE ADVERSARIAL PARALLELIZATION](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
+* GENERATIVE ADVERSARIAL PARALLELIZATION [[paper]](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
 
 ## Application   
 ### Privacy in CPS  
-* [Differential Privacy Techniques for Cyber Physical Systems: A Survey](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
+* Differential Privacy Techniques for Cyber Physical Systems: A Survey [[paper]](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
 ### Privacy in IoT  
 
-### Privacy in Network  
-* [NoMoAds: Effective and Efficient Cross-App Mobile Ad-Blocking](https://www.petsymposium.org/2018/files/papers/issue4/popets-2018-0035.pdf) by Anastaisa Shuba, A.Markopoulou and Zubair Shafiq. 2018  
-* [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) by Steven Englehardt and Arvind Narayanan. 2016  
-* [Third-Party Web Tracking: Policy and Technology](https://jonathanmayer.org/publications/trackingsurvey12.pdf) by Jonathan Mayer and John Mitchell. 2012  
+### Privacy Issues in Network Tracking
+* NoMoAds: Effective and Efficient Cross-App Mobile Ad-Blocking [[paper]](https://www.petsymposium.org/2018/files/papers/issue4/popets-2018-0035.pdf) by Anastaisa Shuba, A.Markopoulou and Zubair Shafiq. 2018  
+* Online Tracking: A 1-million-site Measurement and Analysis [[paper]](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) by Steven Englehardt and Arvind Narayanan. 2016  
+* Third-Party Web Tracking: Policy and Technology [[paper]](https://jonathanmayer.org/publications/trackingsurvey12.pdf) by Jonathan Mayer and John Mitchell. 2012  
 
 ## Differential Privacy Tutorial
-* [For dummies](https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/)
-* [Emory University CS 573 Data Privacy and Security, Fall 2018](http://www.cs.emory.edu/~lxiong/cs573/)
-* [KDD 2018 Privacy tutorial](https://sites.google.com/view/kdd2018privacytutorial)
-* [KDD 2018 PRIVACY AT SCALE: LOCAL DIFFERENTIAL PRIVACY IN PRACTICE](https://sites.google.com/view/kdd2018-tutorial/home)
+* For dummies [[link]](https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/)
+* Emory University CS 573 Data Privacy and Security, Fall 2018 [[course website]](http://www.cs.emory.edu/~lxiong/cs573/)
+* KDD 2018 Privacy tutorial [[link]](https://sites.google.com/view/kdd2018privacytutorial)
+* KDD 2018 PRIVACY AT SCALE: LOCAL DIFFERENTIAL PRIVACY IN PRACTICE [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
 
