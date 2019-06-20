@@ -1,6 +1,6 @@
 # Awesome-Privacy  
 
-This is a repository for papers on all kinds of things on privacy. Currently its' maintained by [Yanqi Gu](https://guyanqi.github.io) 
+This is a repository for papers on all kinds of things on privacy. Currently its' maintained by [Yanqi Gu](https://guyanqi.github.io)   
 You can find research and review papers of privacy. The papers are sorted by time. Any suggestions and pull requests are welcome.  
 The sharing is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
 In my opinion, there're currently several things that researchers in this area need to pay attention to:   
