@@ -1,21 +1,12 @@
 # Awesome-Privacy  
 
-This is a repository for papers on all kinds of things on privacy. Currently its' only for personal use.  
-Privacy is a very interesting research area, it has promising application in interaction with learning theory, IoT, multi-agent systems.  
-This is a collection of research and review papers of privacy. The papers are sorted by time. Any suggestions and pull requests are welcome.  
-The sharing is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my github homepage).  
+This is a repository for papers on all kinds of things on privacy. Currently its' maintained by [Yanqi Gu](https://guyanqi.github.io) 
+You can find research and review papers of privacy. The papers are sorted by time. Any suggestions and pull requests are welcome.  
+The sharing is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
 In my opinion, there're currently several things that researchers in this area need to pay attention to:   
 Mathematical Frameworks(Theoretical research in differential privacy is getting hotter, including private learning algorithms and fair learning),
-Privacy in practice(Since we already have these privacy algorithms, it's important to think about how to implement them efficiently),
-Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems),
-Policy(This part is for politics).  
-
-## Privacy Mechanism Design  
-### Generated Privacy  
-* 
-* Generative Adversarial Models for Learning Private and Fair Representations(GAPF) [[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
-* Context-Aware Generative Adversarial Privacy(GAP) [[paper]](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
-
+Privacy in practice(Since we already have these privacy algorithms, it's important to think about how to implement them efficiently and securely),
+Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems). 
 
 ## Framework  
 ### General DP theory  
@@ -35,12 +26,23 @@ Policy(This part is for politics).
 * Privacy at Scale: Local Differential Privacy in Practice [[paper]](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
 * Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
 
+### Image Privacy
+* Learning to Anonymize Faces for Privacy Preserving Action Detection [[]](https://web.cs.ucdavis.edu/~yjlee/projects/eccv2018-privacy.pdf) by Zhongzheng Ren, Yong Jae Lee and Michael S.Ryoo. 2019
+* Image Privacy Prediction Using Deep Neural Networks [[paper]](https://arxiv.org/pdf/1903.03695.pdf) by Ashwini Tonge, Cornelia Caragea. 2019
+
+### Adversarial Training
+* TBA
+
+### Generated Privacy  
+* 
+* Generative Adversarial Models for Learning Private and Fair Representations(GAPF) [[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
+* Context-Aware Generative Adversarial Privacy(GAP) [[paper]](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
+
 ### Privacy in Collaborative Learning  
+* Exploiting Unintended Feature Leakage in Collaborative Learning [[paper]](https://arxiv.org/pdf/1805.04049.pdf) [[code]](https://github.com/csong27/property-inference-collaborative-ml) by Vitaly's group. 2019
 * Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning [[paper]](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
 
-### Privacy in ML  
-* DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation [[paper]](https://arxiv.org/pdf/1806.10313.pdf) by Hui Xu, etc. 2018
-* Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference [[paper]](https://arxiv.org/abs/1811.09953) by Edward Chou, Josh Beal, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei. 2018  
+### Private ML  
 * Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle [[paper]](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
 * Privacy-Preserving Deep Learning [[paper]](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf) by Reza Shokri and Vitaly Shmatikov.2015  
 * Differential Privacy and Machine Learning: a Survey and Review [[paper]](https://arxiv.org/abs/1412.7584) by Zhanglong Ji, Zachary C. Lipton, Charles Elkan. 2014  
@@ -60,15 +62,14 @@ Policy(This part is for politics).
 * Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits [[paper]](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
 
 ### Privacy-preserving Cryptography method
-
-### Interaction
+* SHE: A Fast and Accurate Deep Neural Network for Encrypted Data [[paper]](https://arxiv.org/abs/1906.00148) [[code]](https://github.com/safednn/SHE) by Qian Lou, Lei Jiang. 2019
+* 2P-DNN : Privacy-Preserving Deep Neural Networks Based on Homomorphic Cryptosystem [[paper]](https://arxiv.org/abs/1807.08459) [[code]](https://github.com/zhustrong/pigstrong/tree/master/pigstrong) by Qiang Zhu, Xixiang Lv. 2018
 
 ## Efficient Deployment  
 ### Parallel Computing  
 * GENERATIVE ADVERSARIAL PARALLELIZATION [[paper]](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
 
 ## Application   
-### Privacy in CPS  
 * Differential Privacy Techniques for Cyber Physical Systems: A Survey [[paper]](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
 ### Privacy in IoT  
