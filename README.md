@@ -67,12 +67,12 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 
 ## Efficient Deployment  
 ### Parallel Computing  
-* GENERATIVE ADVERSARIAL PARALLELIZATION [[paper]](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
+* Generative Adversarial parallelization [[paper]](https://openreview.net/pdf?id=Sk8J83oee) by Daniel Jiwoong Im, He Ma, Chris Dongjoo Kim and Graham W.Taylor. 2016  
 
 ## Application   
-* Differential Privacy Techniques for Cyber Physical Systems: A Survey [[paper]](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
 ### Privacy in IoT  
+* Differential Privacy Techniques for Cyber Physical Systems: A Survey [[paper]](https://arxiv.org/abs/1812.02282) by Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen. 2018  
 
 ### Privacy Issues in Network Tracking
 * NoMoAds: Effective and Efficient Cross-App Mobile Ad-Blocking [[paper]](https://www.petsymposium.org/2018/files/papers/issue4/popets-2018-0035.pdf) by Anastaisa Shuba, A.Markopoulou and Zubair Shafiq. 2018  
