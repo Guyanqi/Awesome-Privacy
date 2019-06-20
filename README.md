@@ -12,7 +12,7 @@ Policy(This part is for politics).
 
 ## Privacy Mechanism Design  
 ### Generated Privacy  
-* Generative Adversarial Models for Learning Private and Fair Representations(GAPF)[paper](https://arxiv.org/abs/1807.05306) [code](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
+* Generative Adversarial Models for Learning Private and Fair Representations(GAPF)[[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
 * [Context-Aware Generative Adversarial Privacy(GAP)](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
 
 
