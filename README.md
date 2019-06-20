@@ -4,7 +4,7 @@ This is a repository for resources on all kinds of things on privacy. Currently 
 The papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome.  
 The sharing is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
 In my opinion, there're currently several things that researchers in this area need to pay attention to:   
-Mathematical Frameworks(Theoretical research in differential privacy is getting hotter, including private learning algorithms and fair learning)   
+Mathematical Frameworks(Theoretical research in differential privacy is very hot, including private learning algorithms and fair learning)   
 Privacy in practice(Since we already have these privacy algorithms, it's important to think about how to implement them efficiently and securely)   
 Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems)    
 
@@ -15,8 +15,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Individual Fairness Under Composition [[paper]](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
 * Differentially Private Fair Learning [[paper]](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
 * Differentially Private False Discovery Rate Control [[paper]](https://arxiv.org/abs/1807.04209) by Cynthia Dwork, Weijie J. Su, Li Zhang. 2018  
-* THE FIENBERG PROBLEM: HOW TO ALLOW HUMAN INTERACTIVE DATA ANALYSIS IN THE AGE OF DIFFERENTIAL PRIVACY [[paper]] by Cynthia Dwork and Jonathan Ullman. 2018
-* Accuracy First: Selecting a Differential Privacy Level for Accuracy-Constrained ERM [[paper]](https://arxiv.org/abs/1705.10829) by Katrina Ligett, Seth Neel, Aaron Roth, Bo Waggoner, Z. Steven Wu. 2017  
+* Accuracy First: Selecting a Differential Privacy Level for Accuracy-Constrained ERM [[paper]](https://arxiv.org/abs/1705.10829) [[code]](https://github.com/steven7woo/Accuracy-First-Differential-Privacy) by Katrina Ligett, Seth Neel, Aaron Roth, Bo Waggoner, Z. Steven Wu. 2017  
 * Penalizing Unfairness in Binary Classification [[paper]](https://arxiv.org/abs/1707.00044) by Yahav Bechavod, Katrina Ligett. 2017  
 * Concentrated Differential Privacy [[paper]](https://arxiv.org/abs/1603.01887) by Cynthia Dwork, Guy N. Rothblum. 2016  
 * Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression [[paper]](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
@@ -33,8 +32,9 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 ### Adversarial Training
 * TBA
 
-### Generated Privacy  
-* 
+### Privacy and Generative Model
+* DP-CGAN : Differentially Private Synthetic Data and Label Generation [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Torkzadehmahani_DP-CGAN_Differentially_Private_Synthetic_Data_and_Label_Generation_CVPRW_2019_paper.pdf) by Peter Kairouz etc. 2019
+* Siamese Generative Adversarial Privatizer for Biometric Data [[paper]](https://arxiv.org/pdf/1804.08757.pdf) [[code]](https://github.com/WUT-ML/privacy) by WUT and peter kairouz. 2018
 * Generative Adversarial Models for Learning Private and Fair Representations(GAPF) [[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
 * Context-Aware Generative Adversarial Privacy(GAP) [[paper]](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
 
