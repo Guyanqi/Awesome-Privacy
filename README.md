@@ -26,7 +26,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
 
 ### Image Privacy
-* Learning to Anonymize Faces for Privacy Preserving Action Detection [[]](https://web.cs.ucdavis.edu/~yjlee/projects/eccv2018-privacy.pdf) by Zhongzheng Ren, Yong Jae Lee and Michael S.Ryoo. 2019
+* Learning to Anonymize Faces for Privacy Preserving Action Detection [[paper]](https://web.cs.ucdavis.edu/~yjlee/projects/eccv2018-privacy.pdf) by Zhongzheng Ren, Yong Jae Lee and Michael S.Ryoo. 2019
 * Image Privacy Prediction Using Deep Neural Networks [[paper]](https://arxiv.org/pdf/1903.03695.pdf) by Ashwini Tonge, Cornelia Caragea. 2019
 
 ### Adversarial Training
