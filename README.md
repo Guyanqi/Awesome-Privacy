@@ -12,7 +12,7 @@ Policy(This part is for politics).
 
 ## Privacy Mechanism Design  
 ### Generated Privacy  
-* [Generative Adversarial Models for Learning Private and Fair Representations(GAPF)](https://arxiv.org/abs/1807.05306) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
+* [Generative Adversarial Models for Learning Private and Fair Representations(GAPF)][paper](https://arxiv.org/abs/1807.05306) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
 * [Context-Aware Generative Adversarial Privacy(GAP)](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
 
 
@@ -58,7 +58,7 @@ Policy(This part is for politics).
 * [(Nearly) Optimal Differentially Private Stochastic Multi-Arm Bandits](http://auai.org/uai2015/proceedings/papers/58.pdf) by Nikita Mishra and Abhradeep Thakurta  
 * [Taming the Monster: A Fast and Simple Algorithm for Contextual Bandits](http://proceedings.mlr.press/v32/agarwalb14.pdf) by A.A, D.H, S.K, J.L, L.L, R.E.S  
 
-### Privacy based on Cryptography
+### Privacy-preserving Cryptography method
 
 ### Interaction
 
