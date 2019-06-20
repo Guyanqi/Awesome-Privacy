@@ -12,42 +12,43 @@ Policy(This part is for politics).
 
 ## Privacy Mechanism Design  
 ### Generated Privacy  
-* Generative Adversarial Models for Learning Private and Fair Representations(GAPF)[[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
-* [Context-Aware Generative Adversarial Privacy(GAP)](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
+* 
+* Generative Adversarial Models for Learning Private and Fair Representations(GAPF) [[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
+* Context-Aware Generative Adversarial Privacy(GAP) [[paper]](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
 
 
 ## Framework  
-### DP theory  
-* [pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovi´c. 2018
-* [Differentially Private Continual Learning](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018 This is a workshop 3 page paper. Continual DP GAN.
-* [Individual Fairness Under Composition](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
-* [Differentially Private Fair Learning](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
-* [Differentially Private False Discovery Rate Control](https://arxiv.org/abs/1807.04209) by Cynthia Dwork, Weijie J. Su, Li Zhang. 2018  
-* [THE FIENBERG PROBLEM: HOW TO ALLOW HUMAN INTERACTIVE DATA ANALYSIS IN THE AGE OF DIFFERENTIAL PRIVACY] by Cynthia Dwork and Jonathan Ullman. 2018
-* [Accuracy First: Selecting a Differential Privacy Level for Accuracy-Constrained ERM](https://arxiv.org/abs/1705.10829) by Katrina Ligett, Seth Neel, Aaron Roth, Bo Waggoner, Z. Steven Wu. 2017  
-* [Penalizing Unfairness in Binary Classification](https://arxiv.org/abs/1707.00044) by Yahav Bechavod, Katrina Ligett. 2017  
-* [Concentrated Differential Privacy](https://arxiv.org/abs/1603.01887) by Cynthia Dwork, Guy N. Rothblum. 2016  
-* [Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
+### General DP theory  
+* pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity [[paper]](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovi´c. 2018
+* Differentially Private Continual Learning [[paper]](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018 This is a workshop 3 page paper. Continual DP GAN.
+* Individual Fairness Under Composition [[paper]](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
+* Differentially Private Fair Learning [[paper]](https://arxiv.org/abs/1812.02696) by Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman. 2018  
+* Differentially Private False Discovery Rate Control [[paper]](https://arxiv.org/abs/1807.04209) by Cynthia Dwork, Weijie J. Su, Li Zhang. 2018  
+* THE FIENBERG PROBLEM: HOW TO ALLOW HUMAN INTERACTIVE DATA ANALYSIS IN THE AGE OF DIFFERENTIAL PRIVACY [[paper]] by Cynthia Dwork and Jonathan Ullman. 2018
+* Accuracy First: Selecting a Differential Privacy Level for Accuracy-Constrained ERM [[paper]](https://arxiv.org/abs/1705.10829) by Katrina Ligett, Seth Neel, Aaron Roth, Bo Waggoner, Z. Steven Wu. 2017  
+* Penalizing Unfairness in Binary Classification [[paper]](https://arxiv.org/abs/1707.00044) by Yahav Bechavod, Katrina Ligett. 2017  
+* Concentrated Differential Privacy [[paper]](https://arxiv.org/abs/1603.01887) by Cynthia Dwork, Guy N. Rothblum. 2016  
+* Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression [[paper]](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
 
 ### Local Differential Privacy  
-* [Local Differential Privacy for Evolving Data](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Aaron Roth, Jonathan Ullman, Bo Waggoner. 2018  
-* [Privacy at Scale: Local Differential Privacy in Practice](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
-* [Locally Private Gaussian Estimation](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
+* Local Differential Privacy for Evolving Data [[paper]](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Aaron Roth, Jonathan Ullman, Bo Waggoner. 2018  
+* Privacy at Scale: Local Differential Privacy in Practice [[paper]](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
+* Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
 
 ### Privacy in Collaborative Learning  
-* [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
+* Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning [[paper]](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
 
 ### Privacy in ML  
-* [DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation](https://arxiv.org/pdf/1806.10313.pdf) by Hui Xu, etc. 2018
-* [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953) by Edward Chou, Josh Beal, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei. 2018  
-* [Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
-* [Privacy-Preserving Deep Learning](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf) by Reza Shokri and Vitaly Shmatikov.2015  
-* [Differential Privacy and Machine Learning: a Survey and Review](https://arxiv.org/abs/1412.7584) by Zhanglong Ji, Zachary C. Lipton, Charles Elkan. 2014  
+* DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation [[paper]](https://arxiv.org/pdf/1806.10313.pdf) by Hui Xu, etc. 2018
+* Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference [[paper]](https://arxiv.org/abs/1811.09953) by Edward Chou, Josh Beal, Daniel Levy, Serena Yeung, Albert Haque, Li Fei-Fei. 2018  
+* Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle [[paper]](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
+* Privacy-Preserving Deep Learning [[paper]](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf) by Reza Shokri and Vitaly Shmatikov.2015  
+* Differential Privacy and Machine Learning: a Survey and Review [[paper]](https://arxiv.org/abs/1412.7584) by Zhanglong Ji, Zachary C. Lipton, Charles Elkan. 2014  
 
 ### Privacy in GAN  
-* [Differentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data
-](https://arxiv.org/abs/1901.02477) by Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger. 2019   
-* [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
+* Differentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data
+ [[paper]](https://arxiv.org/abs/1901.02477) by Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger. 2019   
+* Generative Adversarial Nets [[paper]](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
 
 ### Privacy in MAB  
 * [Differentially Private Contextual Linear Bandits](https://arxiv.org/pdf/1810.00068.pdf) by Roshan Shariff and Or Sheffet. 2018  
