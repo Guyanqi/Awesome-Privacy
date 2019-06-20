@@ -11,8 +11,9 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 Policy(This part is for politics).  
 
 ## Privacy Mechanism Design  
-### GAN based  
-* [Context-Aware Generative Adversarial Privacy](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
+### Generated Privacy  
+* [Generative Adversarial Models for Learning Private and Fair Representations(GAPF)](https://arxiv.org/abs/1807.05306) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
+* [Context-Aware Generative Adversarial Privacy(GAP)](https://arxiv.org/abs/1710.09549) by Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, Ram Rajagopal. 2017  
 
 
 ## Framework  
