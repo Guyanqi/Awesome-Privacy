@@ -41,7 +41,8 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
  [[paper]](https://arxiv.org/abs/1901.02477) by Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger. 2018   
 * Generative Adversarial Nets [[paper]](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
 
-### Privacy in Collaborative Learning  
+### Privacy in Federated Learning  
+* Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning [[paper]](https://arxiv.org/pdf/1812.00535.pdf) by Zhibo Wang, etc. 2019
 * Exploiting Unintended Feature Leakage in Collaborative Learning [[paper]](https://arxiv.org/pdf/1805.04049.pdf) [[code]](https://github.com/csong27/property-inference-collaborative-ml) by Vitaly's group. 2019
 * How To Backdoor Federated Learning [[paper]](https://arxiv.org/abs/1807.00459) [[code]](https://github.com/ebagdasa/backdoor_federated_learning) by Vitaly's group. 2018
 * Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning [[paper]](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
