@@ -9,7 +9,10 @@ Privacy in practice(Since we already have these privacy algorithms, it's importa
 Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems)    
 
 ## Framework  
-### General DP theory  
+### General DP theory
+* Average-Case Averages: Private Algorithms for Smooth Sensitivity and Mean Estimation[[paper]](https://arxiv.org/pdf/1906.02830.pdf) by Mark Bun and Thomas Steinke. 2019
+* New Differentially Private Algorithms for Learning Mixtures of Well-Separated Gaussians[[paper]](https://arxiv.org/pdf/1909.03951.pdf) by Gautam Kamath, Or Sheffet, Vikrant Singhal, Jonathan Ullman. 2019 
+* Private Hypothesis Selection [[paper]](https://arxiv.org/pdf/1905.13229.pdf) by Mark Bun, Gautam Kamath, Thomas Steinke,Steven Wu. 2019
 * pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity [[paper]](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovic. 2018
 * Differentially Private Continual Learning [[paper]](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018
 * Individual Fairness Under Composition [[paper]](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
@@ -21,6 +24,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression [[paper]](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
 
 ### Local Differential Privacy  
+* Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2019  
 * Local Differential Privacy for Evolving Data [[paper]](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Aaron Roth, Jonathan Ullman, Bo Waggoner. 2018  
 * Privacy at Scale: Local Differential Privacy in Practice [[paper]](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
 * Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
@@ -33,6 +37,7 @@ Domains Usage(Currently privacy is important and need to be studied in CPS syste
 * TBA
 
 ### Privacy and Generative Model
+* Generalization in Generative Adversarial Networks:A Novel Perspective from Privacy Protection [[paper]](https://arxiv.org/pdf/1908.07882.pdf) by Bingzhe Wu etc. 2019
 * DP-CGAN : Differentially Private Synthetic Data and Label Generation [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Torkzadehmahani_DP-CGAN_Differentially_Private_Synthetic_Data_and_Label_Generation_CVPRW_2019_paper.pdf) by Peter Kairouz etc. 2019
 * Siamese Generative Adversarial Privatizer for Biometric Data [[paper]](https://arxiv.org/pdf/1804.08757.pdf) [[code]](https://github.com/WUT-ML/privacy) by WUT and peter kairouz. 2018
 * Generative Adversarial Models for Learning Private and Fair Representations(GAPF) [[paper]](https://arxiv.org/abs/1807.05306) [[code]](https://github.com/cabreraalex/private-fair-GAN) by Chong Huang, Peter Kairouz, Lalitha Sankar. 2018
