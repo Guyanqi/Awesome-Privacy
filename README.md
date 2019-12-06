@@ -32,8 +32,9 @@ This repository will focus on:
 * Learning to Anonymize Faces for Privacy Preserving Action Detection [[paper]](https://web.cs.ucdavis.edu/~yjlee/projects/eccv2018-privacy.pdf) by Zhongzheng Ren, Yong Jae Lee and Michael S.Ryoo. 2019
 * Image Privacy Prediction Using Deep Neural Networks [[paper]](https://arxiv.org/pdf/1903.03695.pdf) by Ashwini Tonge, Cornelia Caragea. 2019
 
-### Adversarial Training and Robustness    
-* TBA
+### Adversarial Examples and Robustness    
+* A unified view on differential privacy and robustness to adversarial examples [[paper]](https://arxiv.org/abs/1906.07982) by Rafael Pinot, et al. 2019   
+* Certified Robustness to Adversarial Examples with Differential Privacy [[paper]](https://arxiv.org/abs/1802.03471) by Mathias Lecuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Suman Jana. 2018  
 
 ### Privacy and Generative Model
 * Generalization in Generative Adversarial Networks:A Novel Perspective from Privacy Protection [[paper]](https://arxiv.org/pdf/1908.07882.pdf) by Bingzhe Wu etc. 2019
