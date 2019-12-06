@@ -4,8 +4,8 @@ This is a repository for resources on all kinds of things on differential privac
 The papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
 
 This repository will focus on:     
-Mathematical Frameworks(theoretical research in differential privacy, including private learning algorithms and fair learning)   
-Privacy in practice(applications on privacy algorithms)   
+1.Mathematical Frameworks(theoretical research in differential privacy, including private learning algorithms and fair learning)   
+2.Privacy in practice(applications of privacy algorithms)   
 
 ## Framework  
 ### General DP theory
@@ -32,7 +32,7 @@ Privacy in practice(applications on privacy algorithms)
 * Learning to Anonymize Faces for Privacy Preserving Action Detection [[paper]](https://web.cs.ucdavis.edu/~yjlee/projects/eccv2018-privacy.pdf) by Zhongzheng Ren, Yong Jae Lee and Michael S.Ryoo. 2019
 * Image Privacy Prediction Using Deep Neural Networks [[paper]](https://arxiv.org/pdf/1903.03695.pdf) by Ashwini Tonge, Cornelia Caragea. 2019
 
-### Adversarial Training
+### Adversarial Training and Robustness    
 * TBA
 
 ### Privacy and Generative Model
