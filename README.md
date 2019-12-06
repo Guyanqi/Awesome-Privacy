@@ -1,12 +1,11 @@
 # Awesome-Privacy  
 
-This is a repository for resources on all kinds of things on privacy. Currently it's maintained by [Yanqi Gu](https://guyanqi.github.io).   
-The papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome.  
-The sharing is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
-In my opinion, there're currently several things that researchers in this area need to pay attention to:   
-Mathematical Frameworks(Theoretical research in differential privacy is very hot, including private learning algorithms and fair learning)   
-Privacy in practice(Since we already have these privacy algorithms, it's important to think about how to implement them efficiently and securely)   
-Domains Usage(Currently privacy is important and need to be studied in CPS systems, mobile systems and tracking systems)    
+This is a repository for resources on all kinds of things on differential privacy. Currently it's maintained by [Yanqi Gu](https://guyanqi.github.io).   
+The papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
+
+This repository will focus on:     
+Mathematical Frameworks(theoretical research in differential privacy, including private learning algorithms and fair learning)   
+Privacy in practice(applications on privacy algorithms)   
 
 ## Framework  
 ### General DP theory
