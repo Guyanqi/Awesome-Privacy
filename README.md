@@ -58,6 +58,7 @@ This repository will focus on:
 * Differential Privacy and Machine Learning: a Survey and Review [[paper]](https://arxiv.org/abs/1412.7584) by Zhanglong Ji, Zachary C. Lipton, Charles Elkan. 2014  
 
 ### Privacy in MAB  
+* Privacy-Preserving Contextual Bandits [[paper]](https://arxiv.org/pdf/1910.05299.pdf) by Facebook AI Research. 2019
 * Differentially Private Contextual Linear Bandits [[paper]](https://arxiv.org/pdf/1810.00068.pdf) by Roshan Shariff and Or Sheffet. 2018  
 * Achieving Privacy in the Adversarial Multi-Armed Bandit [[paper]](https://arxiv.org/abs/1701.04222) by Aristide C. Y. Tossou, Christos Dimitrakakis. 2017  
 * Differentially Private Policy Evaluation [[paper]](https://arxiv.org/abs/1603.02010) by Borja Balle, Maziar Gomrokchi, Doina Precup. 2016  
