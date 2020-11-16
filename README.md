@@ -1,14 +1,14 @@
 # Awesome-Privacy  
 
-This is a repository for resources on all kinds of things on differential privacy. Currently it's maintained by [Yanqi Gu](https://guyanqi.github.io).   
-The papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
+This is a repository for resources on all kinds of things of Differential Privacy. Currently it's maintained by [Yanqi Gu](https://guyanqi.github.io).   
+All these papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
 
 This repository will focus on:     
-1.Mathematical Frameworks(theoretical research in differential privacy, including private learning algorithms and fair learning)   
-2.Privacy in practice(applications of privacy algorithms)   
+1.Mathematical Frameworks(theoretical research in differential privacy)   
+2.Privacy in practice(applications of differential privacy algorithms)   
 
 ## Framework  
-### General DP theory
+### DP theory
 * Average-Case Averages: Private Algorithms for Smooth Sensitivity and Mean Estimation[[paper]](https://arxiv.org/pdf/1906.02830.pdf) by Mark Bun and Thomas Steinke. 2019
 * New Differentially Private Algorithms for Learning Mixtures of Well-Separated Gaussians[[paper]](https://arxiv.org/pdf/1909.03951.pdf) by Gautam Kamath, Or Sheffet, Vikrant Singhal, Jonathan Ullman. 2019 
 * Private Hypothesis Selection [[paper]](https://arxiv.org/pdf/1905.13229.pdf) by Mark Bun, Gautam Kamath, Thomas Steinke,Steven Wu. 2019
