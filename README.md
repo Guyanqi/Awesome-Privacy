@@ -9,6 +9,7 @@ This repository will focus on:
 
 ## Framework  
 ### DP theory
+* Gaussian differential privacy [[paper]](https://arxiv.org/pdf/1905.02383) by Jinshuo Dong,  Aaron Roth, Weijie J. Su.  2019
 * Average-Case Averages: Private Algorithms for Smooth Sensitivity and Mean Estimation[[paper]](https://arxiv.org/pdf/1906.02830.pdf) by Mark Bun and Thomas Steinke. 2019
 * New Differentially Private Algorithms for Learning Mixtures of Well-Separated Gaussians[[paper]](https://arxiv.org/pdf/1909.03951.pdf) by Gautam Kamath, Or Sheffet, Vikrant Singhal, Jonathan Ullman. 2019 
 * Private Hypothesis Selection [[paper]](https://arxiv.org/pdf/1905.13229.pdf) by Mark Bun, Gautam Kamath, Thomas Steinke,Steven Wu. 2019
@@ -23,10 +24,12 @@ This repository will focus on:
 * Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression [[paper]](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
 
 ### Local Differential Privacy  
+* Answering multi-dimensional analytical queries under local differential privacy [[paper]](https://par.nsf.gov/servlets/purl/10194803) by  Tianhao Wang, Bolin Ding, Jingren Zhou, Cheng Hong, Zhicong Huang, Ninghui Li, Somesh Jha. 2019
 * Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2019  
 * Local Differential Privacy for Evolving Data [[paper]](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Aaron Roth, Jonathan Ullman, Bo Waggoner. 2018  
 * Privacy at Scale: Local Differential Privacy in Practice [[paper]](http://dimacs.rutgers.edu/~graham/pubs/papers/ldptutorial.pdf) by Graham Cormode, Somesh Jha, Tejas kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang. 2018  
 * Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2018  
+* Locally differentially private protocols for frequency estimation [[paper]](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf) by  Tianhao Wang, Jeremiah Blocki, Ninghui Li, Somesh Jha. 2017
 
 ### Image Privacy
 * Learning to Anonymize Faces for Privacy Preserving Action Detection [[paper]](https://web.cs.ucdavis.edu/~yjlee/projects/eccv2018-privacy.pdf) by Zhongzheng Ren, Yong Jae Lee and Michael S.Ryoo. 2019
@@ -53,6 +56,9 @@ This repository will focus on:
 * Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning [[paper]](https://arxiv.org/abs/1702.07464) by Briland Hitaj, Giuseppe Ateniese, Fernando Perez-Cruz. 2017  
 
 ### Private ML  
+* Towards practical differentially private convex optimization [[paper]](http://www.omthakkar.com/papers/TPDPCO.pdf) by  Roger Iyengar, Joseph P Near, Dawn Song, Om Thakkar, Abhradeep Thakurta, Lun Wang. 2019
+* Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics [[paper]](https://dl.acm.org/doi/pdf/10.1145/3035918.3064047) by  Xi Wu, Fengan Li, Arun Kumar, Kamalika Chaudhuri, Somesh Jha, Jeffrey F Naughton. 2017
+* Deep learning with differential privacy [[paper]](https://arxiv.org/pdf/1607.00133.pdf%20) by  Martin Abadi, Andy Chu, Ian Goodfellow, H Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang. 2016
 * Learning with differential privacy: stability, learnability and the sufficiency and necessity of ERM principle [[paper]](https://dl.acm.org/citation.cfm?id=3053465) by Yu-Xiang Wang, Jing Lei, Stephen E.Fienberg. 2016  
 * Privacy-Preserving Deep Learning [[paper]](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf) by Reza Shokri and Vitaly Shmatikov.2015  
 * Differential Privacy and Machine Learning: a Survey and Review [[paper]](https://arxiv.org/abs/1412.7584) by Zhanglong Ji, Zachary C. Lipton, Charles Elkan. 2014  
@@ -70,6 +76,8 @@ This repository will focus on:
 ### Privacy-preserving Encrypted Neural Network
 * SHE: A Fast and Accurate Deep Neural Network for Encrypted Data [[paper]](https://arxiv.org/abs/1906.00148) [[code]](https://github.com/safednn/SHE) by Qian Lou, Lei Jiang. 2019
 * 2P-DNN : Privacy-Preserving Deep Neural Networks Based on Homomorphic Cryptosystem [[paper]](https://arxiv.org/abs/1807.08459) [[code]](https://github.com/zhustrong/pigstrong/tree/master/pigstrong) by Qiang Zhu, Xixiang Lv. 2018
+* ABY3 A Mixed Protocol Framework for Machine Learning [[paper]](https://eprint.iacr.org/2018/403.pdf) by  Payman Mohassel, Peter Rindal . 2018
+* Secureml: A system for scalable privacy-preserving machine learning [[paper]](http://web.eecs.umich.edu/~mosharaf/Readings/SecureML.pdf) by  Payman Mohassel, Yupeng Zhang. 2017
 
 
 ## Differential Privacy Tutorial
@@ -77,4 +85,5 @@ This repository will focus on:
 * Emory University CS 573 Data Privacy and Security, Fall 2018 [[course website]](http://www.cs.emory.edu/~lxiong/cs573/)
 * KDD 2018 Privacy tutorial [[link]](https://sites.google.com/view/kdd2018privacytutorial)
 * KDD 2018 Privacy at scale: Local Differential Privacy in Practice [[link]](https://sites.google.com/view/kdd2018-tutorial/home)
+
 
