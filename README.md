@@ -13,6 +13,7 @@ This repository will focus on:
 * Average-Case Averages: Private Algorithms for Smooth Sensitivity and Mean Estimation[[paper]](https://arxiv.org/pdf/1906.02830.pdf) by Mark Bun and Thomas Steinke. 2019
 * New Differentially Private Algorithms for Learning Mixtures of Well-Separated Gaussians[[paper]](https://arxiv.org/pdf/1909.03951.pdf) by Gautam Kamath, Or Sheffet, Vikrant Singhal, Jonathan Ullman. 2019 
 * Private Hypothesis Selection [[paper]](https://arxiv.org/pdf/1905.13229.pdf) by Mark Bun, Gautam Kamath, Thomas Steinke,Steven Wu. 2019
+* Privacy Amplification by Iteration [[paper]](https://arxiv.org/abs/1808.06651) by Vitaly Feldman, Ilya Mironov, Kunal Talwar, Abhradeep Thakurta. 2018
 * pMSE Mechanism: Differentially Private Synthetic Data with Maximal Distributional Similarity [[paper]](https://arxiv.org/pdf/1805.09392.pdf) by Joshua Snoke and Aleksandra Slavkovic. 2018
 * Differentially Private Continual Learning [[paper]](https://arxiv.org/pdf/1902.06497.pdf) by S.Farquhar and Yarin Gal. 2018
 * Individual Fairness Under Composition [[paper]](http://www.fatml.org/media/documents/individual_fairness_under_composition.pdf) by Cynthia Dwork and Christina Ilvento. 2018  
