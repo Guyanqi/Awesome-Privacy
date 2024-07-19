@@ -1,11 +1,15 @@
 # Awesome-Privacy  
 
-This is a repository for resources on all kinds of things of Differential Privacy. Currently it's maintained by [Yanqi Gu](https://guyanqi.github.io).   
+This is a repository for resources on all kinds of things of Privacy Enhancing techinques (PETs). Currently it's maintained by [Yanqi Gu](https://guyanqi.github.io).   
 All these papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact me(you can find my email address on my homepage).  
 
 This repository will focus on:     
-1.Mathematical Frameworks(theoretical research in differential privacy)   
-2.Privacy in practice(applications of differential privacy algorithms)   
+Differential Privacy (DP), including 1.Mathematical Frameworks(theoretical research in differential privacy) and 2.Privacy in practice(applications of differential privacy algorithms)   
+TBA:   
+Multi-party Computation (MPC)    
+Homomorphic Encryption (HE)    
+Trusted Execution Environment (TEE)    
+
 
 ## Framework  
 ### DP theory
