@@ -13,6 +13,7 @@ Trusted Execution Environment (TEE)
 
 ## Framework  
 ### DP theory
+* Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off [[paper](https://openreview.net/forum?id=C7dmhyTDrx)] [[code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] by Yuecheng Li, Lele Fu, Tong Wang, Jian Lou, Bin Chen, Lei Yang, Jian Shen, Zibin Zheng, Chuan Chen. ICML 2025
 * Gaussian differential privacy [[paper]](https://arxiv.org/pdf/1905.02383) by Jinshuo Dong,  Aaron Roth, Weijie J. Su.  2019
 * Average-Case Averages: Private Algorithms for Smooth Sensitivity and Mean Estimation[[paper]](https://arxiv.org/pdf/1906.02830.pdf) by Mark Bun and Thomas Steinke. 2019
 * New Differentially Private Algorithms for Learning Mixtures of Well-Separated Gaussians[[paper]](https://arxiv.org/pdf/1909.03951.pdf) by Gautam Kamath, Or Sheffet, Vikrant Singhal, Jonathan Ullman. 2019 
@@ -29,6 +30,7 @@ Trusted Execution Environment (TEE)
 * Protecting Privacy when Disclosing Information: k-Anonymity and Its Enforcement through Generalization and Suppression [[paper]](https://epic.org/privacy/reidentification/Samarati_Sweeney_paper.pdf) by Pierangela Samarati and Latanya Sweeney  
 
 ### Local Differential Privacy  
+* Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off [[paper](https://openreview.net/forum?id=C7dmhyTDrx)] [[code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] by Yuecheng Li, Lele Fu, Tong Wang, Jian Lou, Bin Chen, Lei Yang, Jian Shen, Zibin Zheng, Chuan Chen. ICML 2025
 * Answering multi-dimensional analytical queries under local differential privacy [[paper]](https://par.nsf.gov/servlets/purl/10194803) by  Tianhao Wang, Bolin Ding, Jingren Zhou, Cheng Hong, Zhicong Huang, Ninghui Li, Somesh Jha. 2019
 * Locally Private Gaussian Estimation [[paper]](https://arxiv.org/abs/1811.08382) by Matthew Joseph, Janardhan Kulkarni, Jieming Mao, Zhiwei Steven Wu. 2019  
 * Local Differential Privacy for Evolving Data [[paper]](https://arxiv.org/abs/1802.07128) by Matthew Joseph, Aaron Roth, Jonathan Ullman, Bo Waggoner. 2018  
@@ -55,6 +57,7 @@ Trusted Execution Environment (TEE)
 * Generative Adversarial Nets [[paper]](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. 2014  
 
 ### Privacy in Federated Learning  
+* Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off [[paper](https://openreview.net/forum?id=C7dmhyTDrx)] [[code](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] by Yuecheng Li, Lele Fu, Tong Wang, Jian Lou, Bin Chen, Lei Yang, Jian Shen, Zibin Zheng, Chuan Chen. ICML 2025
 * Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning [[paper]](https://arxiv.org/pdf/1812.00535.pdf) by Zhibo Wang, etc. 2019
 * Exploiting Unintended Feature Leakage in Collaborative Learning [[paper]](https://arxiv.org/pdf/1805.04049.pdf) [[code]](https://github.com/csong27/property-inference-collaborative-ml) by Vitaly's group. 2019
 * How To Backdoor Federated Learning [[paper]](https://arxiv.org/abs/1807.00459) [[code]](https://github.com/ebagdasa/backdoor_federated_learning) by Vitaly's group. 2018
